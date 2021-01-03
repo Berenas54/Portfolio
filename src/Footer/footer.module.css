@@ -1,0 +1,15 @@
+.footerBlock {
+
+    background-color: #9cf55c;
+}
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.ulContainer {
+    padding: 0;
+}
+.ulContainer li{
+    display: inline-block;
+    margin: 5px 10px;
+}
