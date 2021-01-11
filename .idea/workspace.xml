@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="end 1 task(fix)" />
+    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="end 1 task(fix) add file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609682120688</updated>
       <workItem from="1609682143452" duration="64000" />
-      <workItem from="1609682250284" duration="8964000" />
+      <workItem from="1609682250284" duration="9301000" />
     </task>
     <task id="LOCAL-00001" summary="end 1 task">
       <created>1609686081463</created>
@@ -83,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609694321540</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="end 1 task(fix)">
+      <created>1609694427841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609694427841</updated>
+    </task>
+    <task id="LOCAL-00005" summary="end 1 task(fix) add file">
+      <created>1609694663795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609694663795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +120,7 @@
     <MESSAGE value="end 1 task" />
     <MESSAGE value="Revert &quot;end 1 task&quot;&#10;&#10;This reverts commit dd9083e2" />
     <MESSAGE value="end 1 task(fix)" />
-    <option name="LAST_COMMIT_MESSAGE" value="end 1 task(fix)" />
+    <MESSAGE value="end 1 task(fix) add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="end 1 task(fix) add file" />
   </component>
 </project>

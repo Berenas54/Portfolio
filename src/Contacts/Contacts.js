@@ -8,10 +8,10 @@ function Contacts() {
             <div className={`${sCon.container} ${s.contactsContainer}`}>
                 <h2>Contacts</h2>
                 <div>
-                    <form action={"#!"}>
-                        <div><input placeholder={"Name"}/></div>
-                        <div><input placeholder={"E-mail"}/></div>
-                        <div><textarea placeholder={"Your messages"}></textarea></div>
+                    <form className={s.form} action={"#!"}>
+                        <input placeholder={"Name"}/>
+                        <input placeholder={"E-mail"}/>
+                        <textarea placeholder={"Your messages"}></textarea>
                         <button>SEND MESSAGE</button>
                     </form>
                 </div>
