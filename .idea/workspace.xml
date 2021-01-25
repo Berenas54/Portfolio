@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="end 1 task(fix) add file">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_01_2021_19_29_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_01_2021_19_29__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Works/works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/works.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/container.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/container.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +72,7 @@
       <updated>1609682120688</updated>
       <workItem from="1609682143452" duration="64000" />
       <workItem from="1609682250284" duration="9301000" />
+      <workItem from="1611595532590" duration="4860000" />
     </task>
     <task id="LOCAL-00001" summary="end 1 task">
       <created>1609686081463</created>
@@ -115,6 +125,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="end 1 task" />

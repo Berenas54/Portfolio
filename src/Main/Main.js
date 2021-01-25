@@ -7,10 +7,10 @@ function Main() {
         <div className={s.mainBlock}>
             <div className={sCon.container}>
             <div className={s.text}>
-                <span>Hi There</span>
-                <h1>I am Gleb Gorovoy
+                <h6 className={s.h6}>Hi There!</h6>
+                <h1 className={s.h1}><span className={s.h1_span}>I'M</span> GLEB GOROVOY
                 </h1>
-                <p>Frontend Developer</p>
+                <p className={s.p_about}>I'm a Belarusian front‑end developer.</p>
             </div>
             <div className={s.photo}></div>
             </div>
