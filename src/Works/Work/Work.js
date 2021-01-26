@@ -7,8 +7,10 @@ function Work(props) {
             <div className={s.picture}>
                 <button>Look</button>
             </div>
-            <h3>{props.title}</h3>
+            <div className={s.block_text}>
+            <h3 className={s.title}> <a className={s.link} href="#!">{props.title}</a> </h3>
             <span className={s.description}>{props.description}</span>
+            </div>
         </div>
     );
 }

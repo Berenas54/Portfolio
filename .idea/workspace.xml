@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="end 1 task(fix) add file">
+    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="init :start 2 task">
+      <change afterPath="$PROJECT_DIR$/src/common/styles/colorTitle.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_01_2021_19_29_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_01_2021_19_29__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/main.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/main.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Works/Work/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/Work/Work.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Works/Work/work.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/Work/work.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Works/Works.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/Works.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Works/works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/works.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/styles/container.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/container.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,9 @@
       <updated>1609682120688</updated>
       <workItem from="1609682143452" duration="64000" />
       <workItem from="1609682250284" duration="9301000" />
-      <workItem from="1611595532590" duration="4860000" />
+      <workItem from="1611595532590" duration="4905000" />
+      <workItem from="1611669844501" duration="3596000" />
+      <workItem from="1611681202660" duration="4241000" />
     </task>
     <task id="LOCAL-00001" summary="end 1 task">
       <created>1609686081463</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609694663795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init :start 2 task">
+      <created>1611604671464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611604671464</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,7 @@
     <MESSAGE value="Revert &quot;end 1 task&quot;&#10;&#10;This reverts commit dd9083e2" />
     <MESSAGE value="end 1 task(fix)" />
     <MESSAGE value="end 1 task(fix) add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="end 1 task(fix) add file" />
+    <MESSAGE value="init :start 2 task" />
+    <option name="LAST_COMMIT_MESSAGE" value="init :start 2 task" />
   </component>
 </project>

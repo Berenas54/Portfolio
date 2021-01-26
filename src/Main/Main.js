@@ -2,6 +2,7 @@ import s from './main.module.css';
 import sCon from "./../common/styles/container.module.css"
 
 
+
 function Main() {
     return (
         <div className={s.mainBlock}>

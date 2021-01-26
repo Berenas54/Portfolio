@@ -1,0 +1,12 @@
+.white_start{
+    color: #fff;
+}
+.end_title{
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 45px;
+    margin: 13px 0 12px;
+    color: #8a2be2;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
