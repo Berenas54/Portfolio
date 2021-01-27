@@ -1,4 +1,4 @@
-import s from './Contacts.module.css';
+import s from './Contacts.module.scss';
 import sCon from "./../common/styles/container.module.css"
 
 
