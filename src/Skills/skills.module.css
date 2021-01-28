@@ -1,6 +1,6 @@
 .skillsBlock {
     min-height: 100vh;
-    background-color: #8a5cf5;
+    background-color: #111;
 }
 .skillsContainer{
     flex-direction: column;

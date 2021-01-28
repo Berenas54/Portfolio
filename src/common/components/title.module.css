@@ -1,0 +1,24 @@
+
+.title_bg{
+
+    font-size: 110px;
+    left: 0;
+    letter-spacing: 10px;
+    line-height: 0.7;
+    right: 0;
+    top: 50%;
+    position: absolute;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 0.07);
+    font-family: 'Poppins', sans-serif;
+    transform: translateY(-50%);
+}
+
+.title_section{
+    text-align: center!important;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    padding: 80px 0;
+}
