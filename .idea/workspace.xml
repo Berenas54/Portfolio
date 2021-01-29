@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="add sass">
-      <change afterPath="$PROJECT_DIR$/src/common/components/BigTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/components/title.module.css" afterDir="false" />
+    <list default="true" id="c0c1fdf7-bcbc-464e-9672-789fe26834ec" name="Default Changelist" comment="create contacts block">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Skills/skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills/skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Works/Works.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/Works.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Works/works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Works/works.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Footer/footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Footer/footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nav/nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nav/nav.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,8 @@
       <workItem from="1611766739165" duration="6265000" />
       <workItem from="1611774514225" duration="215000" />
       <workItem from="1611856917505" duration="2038000" />
-      <workItem from="1611859049649" duration="5157000" />
+      <workItem from="1611859049649" duration="5180000" />
+      <workItem from="1611930454416" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="end 1 task">
       <created>1609686081463</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611774730440</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="create contacts block">
+      <created>1611864272093</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611864272093</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
     <MESSAGE value="init :start 2 task" />
     <MESSAGE value="task 2.1" />
     <MESSAGE value="add sass" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sass" />
+    <MESSAGE value="create contacts block" />
+    <option name="LAST_COMMIT_MESSAGE" value="create contacts block" />
   </component>
 </project>

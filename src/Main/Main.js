@@ -1,6 +1,6 @@
 import s from './main.module.css';
 import sCon from "./../common/styles/container.module.css"
-
+import avatar from "./../assets/image/avatar_example.jpg"
 
 
 function Main() {
@@ -13,7 +13,7 @@ function Main() {
                 </h1>
                 <p className={s.p_about}>I'm a Belarusian front‑end developer.</p>
             </div>
-            <div className={s.photo}></div>
+            <div className={s.photo}> <img className={s.avatar} src={avatar}/> </div>
             </div>
         </div>
     );

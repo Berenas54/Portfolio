@@ -3,10 +3,10 @@ import s from './nav.module.css';
 function Nav() {
     return (
         <div className={s.nav}>
-            <a href="">Главная</a>
-            <a href="">Скиллы</a>
-            <a href="">Проекты</a>
-            <a href="">Контакты</a>
+            <a className={s.link} href="">Главная</a>
+            <a className={s.link} href="">Скиллы</a>
+            <a className={s.link} href="">Проекты</a>
+            <a className={s.link} href="">Контакты</a>
         </div>
     );
 }
